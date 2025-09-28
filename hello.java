@@ -1,1 +1,6 @@
-// doing java codes in this folder
+class hello {
+public static void main(String[] args) {
+    System.out.println("welocme this is my first code ");
+}
+    
+}
